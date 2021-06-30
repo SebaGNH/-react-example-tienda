@@ -1,0 +1,17 @@
+[33mcommit d1c457ba227b0de6e90d456727bf54179b9fd178[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sebastian Gonzalez <seba.gnh@gmail.com>
+Date:   Tue May 18 12:29:09 2021 -0300
+
+    Primer Commit
+
+ App.js                  |  91 [32m++++++++++++++++++++++++++++++++++++++++++++++++[m
+ App.rar                 | Bin [31m0[m -> [32m404[m bytes
+ components/Blog.js      |  17 [32m+++++++++[m
+ components/Carrito.js   |  46 [32m++++++++++++++++++++++++[m
+ components/Error404.js  |  11 [32m++++++[m
+ components/Inicio.js    |  16 [32m+++++++++[m
+ components/Productos.js |  72 [32m++++++++++++++++++++++++++++++++++++++[m
+ components/Tienda.js    |  15 [32m++++++++[m
+ index.css               |  26 [32m++++++++++++++[m
+ index.js                |  13 [32m+++++++[m
+ 10 files changed, 307 insertions(+)
